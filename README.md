@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarpan-das-1b563b16b/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/tarpandas1/)
 
-<img align="right" src="https://i.imgflip.com/3fo32e.jpg" width="20%">
+<img align="right" src="https://i.imgflip.com/3fo32e.jpg" width="25%">
 
 ### Github status
 
