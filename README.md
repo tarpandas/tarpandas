@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarpan-das-1b563b16b/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/tarpandas1/)
-[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://twitter.com/TarpanDas7)
+[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=red)](https://twitter.com/TarpanDas7)
 
 
 <img align="right" src="https://i.kym-cdn.com/photos/images/original/001/811/356/89f.jpg" width="35%">
