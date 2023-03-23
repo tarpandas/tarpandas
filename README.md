@@ -24,7 +24,7 @@
 
 ### Github status
 
-![Tarpan's Github Stats](https://github-readme-stats.vercel.app/api?username=tarpandas&show_icons=true&theme=radical)
+![Tarpan's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tarpandas&show_icons=true&theme=radical)
 
 <!---
 tarpandas/tarpandas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
