@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tarpan Das
 
 ![](https://komarev.com/ghpvc/?username=tarpandas&style=for-the-badge)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://tarpandas.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-19092000.web.app/)
 
 <img align="right" src="https://i.pinimg.com/originals/3a/67/56/3a6756dcfe18c5d2a98bd4fa267a0901.gif" width="20%">
 
