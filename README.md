@@ -13,15 +13,13 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarpandas1@gmail.com)
 
-### My socials
-
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarpan-das-1b563b16b/)
 
 ### Github status
 
 ![Tarpan's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tarpandas&show_icons=true&theme=radical)
 
-<img align="right" src="https://i.kym-cdn.com/photos/images/original/001/811/356/89f.jpg" height = "20%" width="95%">
+<img src="https://i.kym-cdn.com/photos/images/original/001/811/356/89f.jpg" height="20%" width="95%">
 
 <!---
 tarpandas/tarpandas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
